@@ -1,0 +1,28 @@
+name: Mr. L-Bo
+favicon: null
+layout_spectrum: 0.2994763655588031
+typography_spectrum: 0.38427625969052315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.704586987150833
+  lightness: 0.7985314095858485
+  saturation: 0.606296373764053
+  rhythmicContrast: 0.009605196071788669
+purpose: []
